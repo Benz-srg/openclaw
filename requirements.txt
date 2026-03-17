@@ -1,0 +1,5 @@
+# Python dependencies for openclaw (handler.py)
+supabase==2.4.0
+pandas-ta==0.3.14b
+pandas==2.1.0
+requests==2.31.0
